@@ -1,14 +1,11 @@
 {
-  "homepage": "http://sanahabil.github.io/authors",
   "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodeman index.js",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "start": "nodeman index.js"
   },
   "keywords": [],cd .
   "author": "",
