@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sanahabil.github.io/authors/",
+  "homepage": "http://sanahabil.github.io/authors",
   "name": "server",
   "version": "1.0.0",
   "description": "",
@@ -10,7 +10,7 @@
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
   },
-  "keywords": [],
+  "keywords": [],cd .
   "author": "",
   "license": "ISC",
   "dependencies": {
